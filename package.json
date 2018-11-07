@@ -1,15 +1,15 @@
 {
-  "name": "modern_portfolio",
+  "name": "portfolio",
   "version": "1.0.0",
-  "description": "Responsive portfolio website",
+  "description": "Portfolio website",
   "main": "index.js",
-  "homepage": "https://bradtraversy.github.io/modern_portfolio",
+  "homepage": "https://ho-dor.github.io",
   "scripts": {
     "sass": "node-sass -w scss/ -o dist/css/ --recursive",
     "deploy": "gh-pages -d dist"
   },
-  "author": "Brad Traversy",
-  "license": "MIT",
+  "author": "Kunal Rai",
+  "license": "ISC",
   "dependencies": {
     "gh-pages": "^1.2.0",
     "node-sass": "^4.9.2"
